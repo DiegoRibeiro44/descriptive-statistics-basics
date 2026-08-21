@@ -1,0 +1,17 @@
+Moda no Excel:
+=MODO.ÚNICO()
+
+
+Mediana no Excel:
+=MED()
+
+
+Média no Excel:
+=MÉDIA()
+
+
+Varância no Excel:
+=VAR.A()
+
+Desvio Padrão no Excel:
+=DESVPADA()
